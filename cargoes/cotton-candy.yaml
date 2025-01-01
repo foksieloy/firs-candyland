@@ -1,0 +1,17 @@
+abbreviation: CC
+available: false
+classes: 2576
+colour: 49
+id: 1
+label: CTCD
+longName: cotton candy
+name: Cotton Candy
+penaltyLength: 39
+penaltyLowerBound: 8
+price: 3701
+sprite:
+  filename: cargoes/cotton-candy.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16
